@@ -1,0 +1,8 @@
+# Folders
+.vs
+x64
+Debug
+Release
+
+# Files
+*.vcxproj.user
